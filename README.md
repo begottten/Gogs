@@ -73,3 +73,4 @@ BIOS в Linux'е?
 ![Image alt]( https://github.com/begottten/Gogs/blob/main/image/books.png)
 
 1. [LinuxHint](<https://linuxhint.com/linux_security_hardening_checklist/>)
+2. [UCD Linux Security Checklist.pdf](<https://www.ucd.ie/t4cms/UCD%20Linux%20Security%20Checklist.pdf/>)
