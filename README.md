@@ -71,3 +71,5 @@ BIOS в Linux'е?
 
 ## Список литературы
 ![Image alt]( https://github.com/begottten/Gogs/blob/main/image/books.png)
+
+1. <https://linuxhint.com/linux_security_hardening_checklist/>
