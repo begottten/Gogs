@@ -1,4 +1,4 @@
-![Image alt]( https://github.com/begottten/Gogs/blob/main/image/hcl.png)
+![Image alt]( https://github.com/begottten/Gogs/blob/main/image/hclinux.png)
 
 ## 1) Доступ по SSH
 
