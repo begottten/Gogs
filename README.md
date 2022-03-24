@@ -70,3 +70,4 @@ BIOS в Linux'е?
 3. Что представляет собой SEOLinux?
 
 ## Список литературы
+![Image alt]( https://github.com/begottten/Gogs/blob/main/image/question.png)
