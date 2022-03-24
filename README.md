@@ -60,4 +60,4 @@
 - Не используйте одни и те же пароли для разных доступов.
 - Измените все имена пользователей доступа по умолчанию.
 ## Вопросы
-![Image alt]( https://github.com/begottten/Gogs/blob/main/image/qstn.png)
+![Image alt]( https://github.com/begottten/Gogs/blob/main/image/question.png)
