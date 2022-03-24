@@ -1,5 +1,5 @@
 ![Image alt]( https://github.com/begottten/Gogs/blob/main/image/Новый%20проект.png)
-# Harding checklist linux 
+
 ## 1) Доступ по SSH
 
  Домашние пользователи:
