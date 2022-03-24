@@ -72,4 +72,4 @@ BIOS в Linux'е?
 ## Список литературы
 ![Image alt]( https://github.com/begottten/Gogs/blob/main/image/books.png)
 
-[GitHub Pages](<https://linuxhint.com/linux_security_hardening_checklist/>)
+1. [LinuxHint](<https://linuxhint.com/linux_security_hardening_checklist/>)
